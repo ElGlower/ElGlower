@@ -1,10 +1,5 @@
 <div align="center">
 
-<img src="banner.png" alt="Catppuccin Banner" width="100%" style="border-radius: 15px;"/>
-
-<br/>
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=CBA6F7&vCenter=true&width=600&lines=%C2%A1Hola,+soy+ElGlower!;Usuario+de+Linux;Desarrollador+de+Software;Administrador+de+Servidores)](https://github.com/ElGlower)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ElGlower&label=Vistas%20del%20perfil&color=cba6f7&style=for-the-badge)
