@@ -28,6 +28,9 @@ Actualmente sigo ampliando mis conocimientos explorando diversas tecnologías, d
 
 ### ![Stats](https://icongr.am/feather/bar-chart-2.svg?size=24&color=F9E2AF) Estadísticas
 
+[![Gráfica de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=ElGlower&theme=catppuccin-mocha&hide_border=true)](https://github.com/ElGlower)
+<br/>
+
 [![Estadísticas de ElGlower](https://github-readme-stats-eight-theta.vercel.app/api?username=ElGlower&show_icons=true&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower)
 [![Lenguajes más usados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElGlower&layout=compact&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower)
 
