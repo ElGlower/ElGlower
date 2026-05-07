@@ -19,12 +19,12 @@
 
 ## 🚀 Proyectos y Repositorios
 
-[![The Towers Remastered](https://github-readme-stats.vercel.app/api/pin/?username=ElGlower&repo=TheTowersRemastered-1.21-Update&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower/TheTowersRemastered-1.21-Update)
-[![Destiny Owners](https://github-readme-stats.vercel.app/api/pin/?username=ElGlower&repo=DestinyOwners-Releases&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower/DestinyOwners-Releases)
+[![The Towers Remastered](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ElGlower&repo=TheTowersRemastered-1.21-Update&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower/TheTowersRemastered-1.21-Update)
+[![Destiny Owners](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ElGlower&repo=DestinyOwners-Releases&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower/DestinyOwners-Releases)
 
 ---
 
 ## 📊 Estadísticas
 
-[![Estadísticas de ElGlower](https://github-readme-stats.vercel.app/api?username=ElGlower&show_icons=true&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ElGlower&layout=compact&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower)
+[![Estadísticas de ElGlower](https://github-readme-stats-eight-theta.vercel.app/api?username=ElGlower&show_icons=true&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower)
+[![Lenguajes más usados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElGlower&layout=compact&theme=catppuccin_mocha&border_radius=10&hide_border=true)](https://github.com/ElGlower)
