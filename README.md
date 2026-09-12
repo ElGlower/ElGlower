@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ### ![Stack](https://icongr.am/feather/cpu.svg?size=24&color=FAB387) Stack Tecnológico
 
